@@ -10,14 +10,22 @@ In this project I had Built a REST API based UI (similar to postman) to make HTT
 - Has a send button which calls the REST API, and display the response status and response body
 
  
+# Fully Responsive site
+  <br> <br> <br> 
  
+## Display in Large Screen
+<br> <br> 
 
-<div align="center">
-<img src=" ibb gif link" />
-ibb gif link(final stage)
-</div>
+ ![PC gif](PostmanClonePC.gif)
 
+<br> <br> <br> 
 
+## Display in Mobile Screen
+
+<br> <br> 
+![Mobile gif](PostmanCloneMobile.gif)
+
+<br> <br> 
 
 ## How To Use
 
